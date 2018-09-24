@@ -13,7 +13,6 @@ For details about the used plugins check the [commerce-gradle-plugin wiki](https
 ## Setup local environment
 
 1. clone the repository
-1. adapt `gradle.properties` as described in the file
 1. `./gradlew setupDev`
 1. Done!
 
